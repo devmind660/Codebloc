@@ -1,0 +1,22 @@
+body {
+    margin-top: 56px;
+}
+.ballons {
+    display: flex;
+    align-items: center;
+    max-height: 200px;
+    overflow: hidden;
+}
+.ballons img {
+    opacity: 0.8;
+}
+.illustration {
+    width: 100px;
+}
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+ul li i {
+    color: green;
+}
